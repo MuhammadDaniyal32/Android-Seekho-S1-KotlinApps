@@ -17,3 +17,8 @@ The bus stops are stored in a Room database. Schedule items are represented by t
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+
+
+https://user-images.githubusercontent.com/55941433/185057930-32c61495-8cc3-45e3-9cc5-079fbd32d963.mp4
+
