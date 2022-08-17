@@ -26,3 +26,7 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+
+https://user-images.githubusercontent.com/55941433/185057543-2d44dc3f-0b31-4543-b7bb-4ee9290e2e05.mp4
+
