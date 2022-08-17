@@ -32,5 +32,6 @@ You need to know:
 
 Getting Started
 ---------------
-
 1. Download and run the app.
+
+https://user-images.githubusercontent.com/55941433/185056965-e9ad685f-7987-4191-9aee-f23bd4852898.mp4
