@@ -24,3 +24,8 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+
+https://user-images.githubusercontent.com/55941433/185057715-d5d2e529-78b9-4a0a-a8fe-7c2037ac19a8.mp4
+
+
