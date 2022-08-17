@@ -10,6 +10,11 @@ Used in the [Android Basics with Kotlin](https://developer.android
 .com/courses/android-basics-kotlin/course) course.
 
 
+
+https://user-images.githubusercontent.com/55941433/185055725-7be8863a-823c-4250-8719-d82782377294.mp4
+
+
+
 Pre-requisites
 --------------
 
